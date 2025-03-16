@@ -1,0 +1,10 @@
+{
+  "name": "Typing Avatars",
+  "description": "Replaces the typing indicator with the avatars of those who are typing.",
+  "version": "1.0.0",
+  "author": "Landon",
+  "main": "index.js",
+  "vendetta": {
+    "repository": "https://github.com/LavaWorlds/Test"
+  }
+}
